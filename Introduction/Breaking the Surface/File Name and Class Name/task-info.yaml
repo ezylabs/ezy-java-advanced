@@ -1,0 +1,11 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Name of the class is incorrect
+    is_correct: true
+  - text: There is no code in the main method
+    is_correct: false
+files:
+  - name: src/Myjavaclass.java
+    visible: true
+local_check: true

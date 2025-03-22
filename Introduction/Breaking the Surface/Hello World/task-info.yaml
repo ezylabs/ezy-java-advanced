@@ -1,0 +1,14 @@
+type: output
+files:
+  - name: src/HelloWorld.java
+    visible: true
+    placeholders:
+      - offset: 96
+        length: 14
+        placeholder_text: /* "Hello World!" */
+  - name: test/output.txt
+    visible: false
+    propagatable: false
+  - name: test/input.txt
+    visible: false
+    propagatable: false

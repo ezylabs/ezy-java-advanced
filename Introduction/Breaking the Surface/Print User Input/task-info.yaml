@@ -1,0 +1,17 @@
+type: edu
+files:
+  - name: src/PrintUserInput.java
+    visible: true
+    placeholders:
+      - offset: 201
+        length: 41
+        placeholder_text: /* TODO */
+      - offset: 279
+        length: 34
+        placeholder_text: /* TODO */
+      - offset: 362
+        length: 5
+        placeholder_text: /* TODO */
+  - name: test/Tests.java
+    visible: false
+    propagatable: false

@@ -1,11 +1,11 @@
 type: marketplace
 title: Ezy Java Advanced Course
 language: English
-summary: Here you can put the course description. You can use HTML tags inside the
-  description.
+summary: Java Advanced Course by Ezy Interviews
 programming_language: Java
 content:
   - Introduction
+  - DataTypesVariablesOperators
 environment_settings:
   jvm_language_level: JDK_17
 additional_files:

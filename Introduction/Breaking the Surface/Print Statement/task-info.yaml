@@ -1,0 +1,14 @@
+type: output
+files:
+  - name: src/PrintTask.java
+    visible: true
+    placeholders:
+      - offset: 75
+        length: 88
+        placeholder_text: /* TODO */
+  - name: test/output.txt
+    visible: false
+    propagatable: false
+  - name: test/input.txt
+    visible: false
+    propagatable: false

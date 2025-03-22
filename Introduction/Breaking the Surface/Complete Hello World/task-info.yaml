@@ -1,0 +1,20 @@
+type: output
+files:
+  - name: src/HelloWorld.java
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 23
+        placeholder_text: /* Class Declaration */
+      - offset: 29
+        length: 38
+        placeholder_text: /* Method Declaration */
+      - offset: 76
+        length: 35
+        placeholder_text: /* Print Hello World */
+  - name: test/output.txt
+    visible: false
+    propagatable: false
+  - name: test/input.txt
+    visible: false
+    propagatable: false

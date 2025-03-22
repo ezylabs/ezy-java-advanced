@@ -1,0 +1,7 @@
+type: theory
+files:
+  - name: src/HelloWorld.java
+    visible: true
+  - name: code-structure.png
+    visible: true
+    is_binary: true
