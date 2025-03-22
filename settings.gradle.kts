@@ -1,4 +1,4 @@
-rootProject.name = "JetBrains Academy Java course template"
+rootProject.name = "Ezy Java Advanced Course"
 
 pluginManagement {
     repositories {
