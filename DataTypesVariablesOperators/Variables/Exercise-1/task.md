@@ -1,0 +1,1 @@
+Add appropriate data types in the placeholders

@@ -1,0 +1,31 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: studentAge
+    is_correct: false
+  - text: 1stNumber
+    is_correct: true
+  - text: total_price
+    is_correct: false
+  - text: class
+    is_correct: true
+  - text: user-name
+    is_correct: true
+  - text: MAX_VALUE
+    is_correct: false
+  - text: _counter
+    is_correct: false
+  - text: boolean
+    is_correct: true
+  - text: $amount
+    is_correct: false
+  - text: finalScore
+    is_correct: false
+  - text: full name
+    is_correct: true
+message_incorrect: "Invalid variables names are : 1stNumber, class, user-name, boolean,\
+  \ full name"
+files:
+  - name: src/Main.java
+    visible: true
+local_check: true

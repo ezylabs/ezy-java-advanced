@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: A) int count = 5; quantity = 2;
+    is_correct: false
+  - text: "B) String name, label;"
+    is_correct: true
+  - text: C) boolean complete = "false";
+    is_correct: false
+  - text: D) boolean isSleeping = true;
+    is_correct: true
+message_incorrect: Options B and D are valid declaration / initialization
+files:
+  - name: src/Main.java
+    visible: true
+local_check: true

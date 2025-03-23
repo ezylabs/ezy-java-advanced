@@ -1,0 +1,13 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Compilation Error
+    is_correct: true
+  - text: Prints 3.14
+    is_correct: false
+  - text: 3.140000104
+    is_correct: false
+files:
+  - name: src/FloatPrecision.java
+    visible: true
+local_check: true

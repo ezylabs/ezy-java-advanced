@@ -1,0 +1,16 @@
+type: output
+files:
+  - name: src/ShoppingApp.java
+    visible: true
+    placeholders:
+      - offset: 31
+        length: 164
+        placeholder_text: /* TODO */
+  - name: test/output.txt
+    visible: false
+    propagatable: false
+  - name: test/input.txt
+    visible: false
+    propagatable: false
+  - name: src/Customer.java
+    visible: true

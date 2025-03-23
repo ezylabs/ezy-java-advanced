@@ -34,4 +34,5 @@ additional_files:
   - name: gradle.properties
   - name: settings.gradle.kts
   - name: .idea/inspectionProfiles/Project_Default.xml
+  - name: common/src/main/java/com/ezy/EzyTestUtils.java
 yaml_version: 2

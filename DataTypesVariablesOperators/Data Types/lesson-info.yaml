@@ -1,1 +1,14 @@
-{ }
+content:
+  - Identify Data Types
+  - Type Conversion
+  - Type Conversion and Implicit Casting
+  - Type Casting and Precision Loss
+  - Byte Overflow and Underflow
+  - Convert String to Different Datatypes
+  - Character ASCII value
+  - Final Variables
+  - Constant Declaration
+  - Circle Calculations
+  - Compare Primitive vs Wrapper Perf
+  - Wrapper Class Conversion
+  - Floating Point Precision

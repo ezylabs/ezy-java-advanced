@@ -1,0 +1,2 @@
+Raju is 21 years old and his height is 5.8
+He thinks Java is Fun? : true

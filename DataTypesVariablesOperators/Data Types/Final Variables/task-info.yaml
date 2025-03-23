@@ -1,0 +1,13 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Compiles successfully and prints 20
+    is_correct: false
+  - text: Compilation error
+    is_correct: true
+  - text: Runtime exception
+    is_correct: false
+files:
+  - name: src/FinalVariableTest.java
+    visible: true
+local_check: true

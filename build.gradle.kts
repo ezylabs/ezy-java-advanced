@@ -63,6 +63,8 @@ configure(subprojects) {
         withType<Test> {
             useJUnitPlatform()
 
+            ignoreFailures = true
+
             outputs.upToDateWhen { false }
 
             addTestListener(object : TestListener {

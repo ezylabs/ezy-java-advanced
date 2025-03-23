@@ -1,0 +1,4 @@
+Byte max value: 127
+After increment: -128
+Byte min value: -128
+After decrement: 127

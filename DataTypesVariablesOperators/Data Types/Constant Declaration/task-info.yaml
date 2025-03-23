@@ -1,0 +1,17 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: final double PI = 3.14159;
+    is_correct: true
+  - text: final int MAX_VALUE;  // No value assigned
+    is_correct: true
+  - text: final long distance = 384400L;
+    is_correct: true
+  - text: final float taxRate = 0.18;
+    is_correct: false
+  - text: final boolean isJavaFun = true;
+    is_correct: true
+files:
+  - name: src/Main.java
+    visible: true
+local_check: true
