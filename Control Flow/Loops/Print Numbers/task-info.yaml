@@ -1,0 +1,7 @@
+type: edu
+files:
+  - name: src/NumberPrinter.java
+    visible: true
+  - name: test/NumberPrinterTest.java
+    visible: false
+    propagatable: false

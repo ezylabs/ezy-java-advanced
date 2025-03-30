@@ -1,0 +1,7 @@
+type: edu
+files:
+  - name: src/VowelConsonantCounter.java
+    visible: true
+  - name: test/VowelConsonantCounterTest.java
+    visible: false
+    propagatable: false

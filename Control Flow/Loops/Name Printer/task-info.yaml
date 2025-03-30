@@ -1,0 +1,7 @@
+type: edu
+files:
+  - name: src/NamePrinter.java
+    visible: true
+  - name: test/NamePrinterTest.java
+    visible: false
+    propagatable: false

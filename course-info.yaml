@@ -6,6 +6,9 @@ programming_language: Java
 content:
   - Introduction
   - DataTypesVariablesOperators
+  - Control Flow
+  - Strings
+  - OOPS
 environment_settings:
   jvm_language_level: JDK_17
 additional_files:
@@ -35,4 +38,26 @@ additional_files:
   - name: settings.gradle.kts
   - name: .idea/inspectionProfiles/Project_Default.xml
   - name: common/src/main/java/com/ezy/EzyTestUtils.java
+  - name: OOPS/oops.png
+    is_binary: true
+  - name: OOPS/encapsulation.png
+    is_binary: true
+  - name: OOPS/abstraction.png
+    is_binary: true
+  - name: OOPS/multiple-inheritance.png
+    is_binary: true
+  - name: OOPS/single-inheritance.png
+    is_binary: true
+  - name: OOPS/multi-level-inheritance.png
+    is_binary: true
+  - name: OOPS/hierarchical-inheritance.png
+    is_binary: true
+  - name: OOPS/solid-srp.png
+    is_binary: true
+  - name: OOPS/solid-ocp.png
+    is_binary: true
+  - name: OOPS/solid-isp.png
+    is_binary: true
+  - name: OOPS/solid-dip.png
+    is_binary: true
 yaml_version: 2

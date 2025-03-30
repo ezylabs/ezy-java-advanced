@@ -1,0 +1,7 @@
+type: edu
+files:
+  - name: src/EvenNumberPrinter.java
+    visible: true
+  - name: test/EvenNumberPrinterTest.java
+    visible: false
+    propagatable: false

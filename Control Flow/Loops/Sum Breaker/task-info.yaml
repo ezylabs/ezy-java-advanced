@@ -1,0 +1,7 @@
+type: edu
+files:
+  - name: src/SumBreaker.java
+    visible: true
+  - name: test/SumBreakerTest.java
+    visible: false
+    propagatable: false

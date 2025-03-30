@@ -1,0 +1,7 @@
+type: edu
+files:
+  - name: src/SumCalculator.java
+    visible: true
+  - name: test/SumCalculatorTest.java
+    visible: false
+    propagatable: false

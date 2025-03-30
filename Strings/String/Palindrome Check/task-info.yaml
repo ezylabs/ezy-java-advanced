@@ -1,0 +1,7 @@
+type: edu
+files:
+  - name: src/PalindromeChecker.java
+    visible: true
+  - name: test/PalindromeCheckerTest.java
+    visible: false
+    propagatable: false

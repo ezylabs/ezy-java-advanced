@@ -1,0 +1,7 @@
+type: edu
+files:
+  - name: src/StringReversal.java
+    visible: true
+  - name: test/StringReversalTest.java
+    visible: false
+    propagatable: false

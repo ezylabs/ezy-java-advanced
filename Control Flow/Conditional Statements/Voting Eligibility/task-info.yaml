@@ -1,0 +1,7 @@
+type: edu
+files:
+  - name: src/VotingEligibility.java
+    visible: true
+  - name: test/VotingEligibilityTest.java
+    visible: false
+    propagatable: false

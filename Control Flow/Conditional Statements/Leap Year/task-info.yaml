@@ -1,0 +1,7 @@
+type: edu
+files:
+  - name: src/LeapYearChecker.java
+    visible: true
+  - name: test/LeapYearCheckerTest.java
+    visible: false
+    propagatable: false

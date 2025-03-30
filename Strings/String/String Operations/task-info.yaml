@@ -1,0 +1,7 @@
+type: edu
+files:
+  - name: src/StringOperations.java
+    visible: true
+  - name: test/StringOperationsTest.java
+    visible: false
+    propagatable: false

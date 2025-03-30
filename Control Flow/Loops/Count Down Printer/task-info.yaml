@@ -1,0 +1,7 @@
+type: edu
+files:
+  - name: src/CountdownPrinter.java
+    visible: true
+  - name: test/CountdownPrinterTest.java
+    visible: false
+    propagatable: false

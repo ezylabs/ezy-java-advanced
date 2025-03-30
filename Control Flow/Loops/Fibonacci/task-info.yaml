@@ -1,0 +1,7 @@
+type: edu
+files:
+  - name: src/FibonacciPrinter.java
+    visible: true
+  - name: test/FibonacciPrinterTest.java
+    visible: false
+    propagatable: false
