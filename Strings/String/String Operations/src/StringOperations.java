@@ -22,6 +22,10 @@ public class StringOperations {
         return str.substring(startIndex);
     }
 
+    public static String extractSubstring2(String str, int startIndex, int endIndex) {
+        return str.substring(startIndex, endIndex);
+    }
+
     public static boolean compareStrings(String str1, String str2) {
         return str1.equals(str2);
     }
@@ -54,6 +58,10 @@ public class StringOperations {
         return str.replace(target, replacement);
     }
 
+    public static String toString(String str) {
+        return str.toString();
+    }
+
     public static void main(String[] args) {
         String literalString = createString();
 
@@ -61,6 +69,7 @@ public class StringOperations {
         System.out.println("Length: " + getStringLength(literalString));
         System.out.println("First Character: " + getFirstCharacter(literalString));
         System.out.println("Substring: " + extractSubstring(literalString, 7));
+        System.out.println("Substring: " + extractSubstring2("0123456789", 5, 8));
         System.out.println("Equals Check: " + compareStrings(literalString, new String("Hello, Java!")));
         System.out.println("Ignore Case Check: " + compareIgnoreCase("java", "JAVA"));
         System.out.println("Contains 'Java': " + containsSubstring(literalString, "Java"));
@@ -69,5 +78,6 @@ public class StringOperations {
         System.out.println("Upper Case: " + convertToUpper(literalString));
         System.out.println("Trimmed: '" + trimString("  Trim me  ") + "'");
         System.out.println("Replaced: " + replaceSubstring(literalString, "Java", "World"));
+        System.out.println("To String: " + toString("A big surprise"));
     }
 }

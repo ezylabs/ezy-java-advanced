@@ -1,0 +1,1 @@
+Method chaining allows us to call multiple methods in a single statement. Each method operates on the return value of the previous method. The key here is that String objects in Java are immutable, meaning every transformation creates a new String object.

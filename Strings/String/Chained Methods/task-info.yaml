@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: DEF
+    is_correct: false
+  - text: abcdef
+    is_correct: false
+  - text: ABxDEF
+    is_correct: true
+  - text: abXdef
+    is_correct: false
+files:
+  - name: src/ChainedMethods.java
+    visible: true
+local_check: true

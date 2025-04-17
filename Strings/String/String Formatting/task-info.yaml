@@ -1,0 +1,17 @@
+type: output
+files:
+  - name: src/SalaryReport.java
+    visible: true
+    placeholders:
+      - offset: 293
+        length: 67
+        placeholder_text: /* TODO */
+      - offset: 518
+        length: 76
+        placeholder_text: /* TODO */
+  - name: test/output.txt
+    visible: false
+    propagatable: false
+  - name: test/input.txt
+    visible: false
+    propagatable: false
